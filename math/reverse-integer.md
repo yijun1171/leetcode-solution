@@ -7,7 +7,7 @@
 **example2**input:-123 output:-321
 
 **code**:
-  
+```java  
     public class solution {
       public int reverse(int x) {
     
@@ -35,3 +35,4 @@
       return s;
       }
     }
+```
