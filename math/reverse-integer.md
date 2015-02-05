@@ -1,10 +1,9 @@
---2015.2.4
+**时间**:2015.2.4
 **问题描述**:数字翻转
+**example1**:input:123 output:321
+**example2**input:-123 output:-321
 
-eg. 1.input:123 output:321
-    2.input:-123 output:-321
-
-code:
+**code**:
   
     public class solution {
       public int reverse(int x) {
