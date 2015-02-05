@@ -1,6 +1,9 @@
 **时间**:2015.2.4
+
 **问题描述**:数字翻转
+
 **example1**:input:123 output:321
+
 **example2**input:-123 output:-321
 
 **code**:
